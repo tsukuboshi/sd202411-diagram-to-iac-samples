@@ -1,0 +1,1 @@
+AWS上でALB + EC2 + RDSを用いたWeb3層アーキテクチャ図をMermaid記法で作成してください。
